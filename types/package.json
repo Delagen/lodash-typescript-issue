@@ -1,0 +1,7 @@
+{
+	"name": "types",
+	"version": "0.0.1",
+	"dependencies": {
+		"@types/lodash": "^4.14.63"
+	}
+}

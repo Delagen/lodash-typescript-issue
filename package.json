@@ -1,0 +1,11 @@
+{
+	"name": "lodash-typescript-issue",
+	"version": "0.0.1",
+	"dependencies": {
+		"typescript": "~2.2.2",
+		"lodash": "^4.17.4"
+	},
+	"scripts": {
+		"test":"npm install && cd types && npm install && tsc"
+	}
+}
